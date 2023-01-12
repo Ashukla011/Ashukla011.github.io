@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.2e618cb3.css",
-    "main.js": "/static/js/main.c4fbef6b.js",
+    "main.js": "/static/js/main.04f8d72d.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/BlueM.png": "/static/media/BlueM.57e7390ed6081fffce93.png",
     "static/media/surveyMoney3.png": "/static/media/surveyMoney3.8863c61378b16fe11c5d.png",
+    "static/media/Avnish_Kumar_Resume.pdf": "/static/media/Avnish_Kumar_Resume.35d7180237a395dab3dd.pdf",
     "static/media/surveyMoney.png": "/static/media/surveyMoney.01e5c79eca4b1a7ec521.png",
     "static/media/BlueM2.png": "/static/media/BlueM2.7ef14d2aa1752719510c.png",
     "static/media/Ayoa2.png": "/static/media/Ayoa2.841a25e50cd7c7dc91c4.png",
@@ -15,11 +16,11 @@
     "static/media/Kalyan2.png": "/static/media/Kalyan2.07e4245315d8cc7b5986.png",
     "index.html": "/index.html",
     "main.2e618cb3.css.map": "/static/css/main.2e618cb3.css.map",
-    "main.c4fbef6b.js.map": "/static/js/main.c4fbef6b.js.map",
+    "main.04f8d72d.js.map": "/static/js/main.04f8d72d.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2e618cb3.css",
-    "static/js/main.c4fbef6b.js"
+    "static/js/main.04f8d72d.js"
   ]
 }
