@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.97461e40.css",
-    "main.js": "/static/js/main.c42b8859.js",
+    "main.js": "/static/js/main.79147bda.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
-    "static/media/Avnish_Kumar_Resume.pdf": "/static/media/Avnish_Kumar_Resume.35d7180237a395dab3dd.pdf",
+    "static/media/Avnish_Kumar_Resume.pdf": "/static/media/Avnish_Kumar_Resume.ecd0ccb09e4facf4f2b5.pdf",
     "static/media/surveyMoney3.png": "/static/media/surveyMoney3.5a995e119302a5d950cc.png",
     "static/media/BlueM2.png": "/static/media/BlueM2.2ee5e3e6abf63ccad292.png",
     "static/media/Ayoa2.png": "/static/media/Ayoa2.18b7178bfa06b02064ea.png",
     "static/media/wonpluswon.png": "/static/media/wonpluswon.8821678b5112ca7856e4.png",
     "index.html": "/index.html",
     "main.97461e40.css.map": "/static/css/main.97461e40.css.map",
-    "main.c42b8859.js.map": "/static/js/main.c42b8859.js.map",
+    "main.79147bda.js.map": "/static/js/main.79147bda.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.97461e40.css",
-    "static/js/main.c42b8859.js"
+    "static/js/main.79147bda.js"
   ]
 }
