@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.ff9210ae.css",
-    "main.js": "/static/js/main.762a425f.js",
+    "main.js": "/static/js/main.4da30e90.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
-    "static/media/Avnish_Kumar_Resume.pdf": "/static/media/Avnish_Kumar_Resume.ecd0ccb09e4facf4f2b5.pdf",
+    "static/media/KFC.png": "/static/media/KFC.197d095135621d1c4b97.png",
+    "static/media/Shop_kro.png": "/static/media/Shop_kro.feb8e4743a3d2e3e5e74.png",
+    "static/media/Avnish_Kumar_Resume.pdf": "/static/media/Avnish_Kumar_Resume.2dfd4a5c519b6bdb7aed.pdf",
     "static/media/surveyMoney3.png": "/static/media/surveyMoney3.5a995e119302a5d950cc.png",
-    "static/media/BlueM2.png": "/static/media/BlueM2.2ee5e3e6abf63ccad292.png",
-    "static/media/Ayoa2.png": "/static/media/Ayoa2.18b7178bfa06b02064ea.png",
     "static/media/wonpluswon.png": "/static/media/wonpluswon.8821678b5112ca7856e4.png",
     "index.html": "/index.html",
     "main.ff9210ae.css.map": "/static/css/main.ff9210ae.css.map",
-    "main.762a425f.js.map": "/static/js/main.762a425f.js.map",
+    "main.4da30e90.js.map": "/static/js/main.4da30e90.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ff9210ae.css",
-    "static/js/main.762a425f.js"
+    "static/js/main.4da30e90.js"
   ]
 }
