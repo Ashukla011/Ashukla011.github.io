@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.f09049e4.css",
-    "main.js": "/static/js/main.599db7e4.js",
+    "main.js": "/static/js/main.04f23064.js",
     "static/js/787.2dcca737.chunk.js": "/static/js/787.2dcca737.chunk.js",
     "static/media/KFC.png": "/static/media/KFC.197d095135621d1c4b97.png",
     "static/media/Shop_kro.png": "/static/media/Shop_kro.feb8e4743a3d2e3e5e74.png",
     "static/media/surveyMoney3.png": "/static/media/surveyMoney3.5a995e119302a5d950cc.png",
-    "static/media/Avnish_Kumar_Resume.pdf": "/static/media/Avnish_Kumar_Resume.17410b4b17d32cafcb34.pdf",
+    "static/media/Avnish_Kumar_Resume.pdf": "/static/media/Avnish_Kumar_Resume.c155139e65556b9d862a.pdf",
     "static/media/wonpluswon.png": "/static/media/wonpluswon.8821678b5112ca7856e4.png",
     "index.html": "/index.html",
     "main.f09049e4.css.map": "/static/css/main.f09049e4.css.map",
-    "main.599db7e4.js.map": "/static/js/main.599db7e4.js.map",
+    "main.04f23064.js.map": "/static/js/main.04f23064.js.map",
     "787.2dcca737.chunk.js.map": "/static/js/787.2dcca737.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f09049e4.css",
-    "static/js/main.599db7e4.js"
+    "static/js/main.04f23064.js"
   ]
 }
